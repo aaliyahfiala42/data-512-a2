@@ -125,6 +125,7 @@ By "high quality" articles, in this case we mean the number of articles about po
     8. Thailand
     9. Mozambique
     10. Bangladesh
+
 3. Top 10 countries by relative quality: 10 highest-ranked countries in terms of the relative proportion of politician articles that are of GA and FA-quality
     1. 'Korea, North',
     2. 'Saudi Arabia', 
@@ -138,16 +139,16 @@ By "high quality" articles, in this case we mean the number of articles about po
     10. 'Benin'
        
 4. Bottom 10 countries by relative quality: 10 lowest-ranked countries in terms of the relative proportion of politician articles that are of GA and FA-quality
-  1. 'Solomon Islands', 
-  2. 'Tonga', 
-  3. 'Nauru', 
-  4. 'Namibia', 
-  5. 'Djibouti',
-  6. 'Mozambique', 
-  7. 'Monaco', 
-  8. 'Eritrea', 
-  9. 'Estonia', 
-  10. 'Moldova'
+    1. 'Solomon Islands', 
+    2. 'Tonga', 
+    3. 'Nauru', 
+    4. 'Namibia', 
+    5. 'Djibouti',
+    6. 'Mozambique', 
+    7. 'Monaco', 
+    8. 'Eritrea', 
+    9. 'Estonia', 
+    10. 'Moldova'
 
 5. Geographic regions by coverage: Ranking of geographic regions (in descending order) in terms of the total count of politician articles from countries in each region as a proportion of total regional population
 
