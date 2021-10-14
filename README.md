@@ -77,6 +77,14 @@ Documentation: https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context_re
 Note: The ORES API returns a prediction value that contains the name of one category, as well as probability values for each of the 6 quality categories. For this assignment, we 
 only need to capture and use the value for prediction. 
 
+### Missing Predictions
+
+It is important to mention that some Wikipedia artcles are not able to receive a score from the ORES api. Due to limits in the ORES model, there are inconclusive predictions. The list of Wikipedia articles that were not able to receive a valid score are stored in a csv file labled, "wikipedia_politcian_pages_no_ORES_pred.csv", and contains the following columns: 
+
+1. page, the name of the Wikipedia article
+2. country, the assocaited country that the article politician represents
+3. rev_id, the unique id used to identify the article
+
 ## Combining Datasets
 Given the predictions and the two distinct data sets, of Wikipedia articles and country population, we will now need to merge them all together into a final dataset. This final dataset is labeled, 'wp_wpds_politicians_by_country.csv' and contains the following columns:
 1. country, the associated country name
